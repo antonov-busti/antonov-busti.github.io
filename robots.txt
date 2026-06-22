@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://antonovboosty.github.io/sitemap.xml
